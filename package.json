@@ -1,6 +1,6 @@
 {
-  "name": "time-count-down",
-  "version": "1.0.0",
+  "name": "future-count-down",
+  "version": "1.0.1",
   "description": "time countdown for future",
   "main": "index.js",
   "scripts": {
