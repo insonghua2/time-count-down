@@ -1,7 +1,7 @@
 {
-  "name": "ins-array-list",
-  "version": "1.0.5",
-  "description": "array list normal operation by object-orientaion",
+  "name": "time-count-down",
+  "version": "1.0.0",
+  "description": "time countdown for future",
   "main": "index.js",
   "scripts": {
     "test": "nyc mocha",
