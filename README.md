@@ -11,7 +11,7 @@
 ## Install
 
 ```bash
-  $ npm install future-count-down--save
+  $ npm install future-count-down --save
 ```
 
 ## Usage
